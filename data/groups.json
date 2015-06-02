@@ -1,5 +1,129 @@
 [
     {
+        "name": "Agile Yorkshire"
+    },
+    {
+        "name": "AWS Meetup Leeds",
+        "description": "Meetup for AWS users in and around Leeds",
+        "organiser": "Lawrence Dudley, James Hall",
+        "email": "lawrence@parall.ax",
+        "where": "Parallax",
+        "when": "Roughly once every two/three months",
+        "advertised": "Meetup, Twitter"
+    },
+    {
+        "name": "DigitaLeeds "
+    },
+    {
+        "name": "DotYork",
+        "description": "Anything web in York",
+        "organiser": "Rick Chadwick",
+        "email": "rick@dotyork.com",
+        "where": "York",
+        "when": "1st Tuesday of each month",
+        "twitter": "@dot_york",
+        "website": "http://dotyork.com",
+        "advertised": "twitter, word of mouth, mailchimp mailing list"
+    },
+    {
+        "name": "Drupal Yorkshire",
+        "description": "Talks and discussions for Drupal site builders, front end developers and coders",
+        "organiser": "Peter McClory",
+        "email": "petermcclory@gmail.com",
+        "where": "Leeds (Curve Agency office)",
+        "when": "2nd Wednesday of the month",
+        "twitter": "@drupalyorkshire",
+        "website": "http://drupalyorkshire.org.uk/",
+        "advertised": "Twitter, Meetup group (http://www.meetup.com/DrupalYorkshire/)"
+    },
+    {
+        "name": "Forefront Leeds",
+        "description": "Front end design and dev talks and meet ups",
+        "organiser": "Russell Poulter",
+        "where": "Leeds (The Belgrave)",
+        "when": "Varies",
+        "twitter": "@forefrontleeds",
+        "website": "http://forefront.cc/",
+        "advertised": "Twitter, Word of Mouth, Eventbrite"
+    },
+    {
+        "name": "Game Republic"
+    },
+    {
+        "name": "Herd/Bradford Technology Forum",
+        "description": "Owners & CTO's of Tech Businesses in Leeds & Bradford",
+        "organiser": "Amy De-Balsi",
+        "email": "amy@leedsherd.com",
+        "where": "Leeds (range of venues)",
+        "when": "Varies but every month",
+        "twitter": "@leedsherd",
+        "website": "leedsherd.co.uk",
+        "advertised": "Personal invite "
+    },
+    {
+        "name": "Hey!",
+        "description": "Hey! is a mini-conference talking about business, design and technology.",
+        "organiser": "Josh Nesbitt",
+        "email": "josh@wearestac.com",
+        "where": "The Belgrave, Leeds",
+        "when": "Every 8 weeks or so",
+        "twitter": "@hey_stac",
+        "website": "hey.wearestac.com",
+        "advertised": "Twitter, Facebook, email campaigns, word of mouth, Leeds Indie Food"
+    },
+    {
+        "name": "Lean Start Up"
+    },
+    {
+        "name": "Leeds Code DoJo"
+    },
+    {
+        "name": "Leeds Data Thing"
+    },
+    {
+        "name": "Leeds DevOps"
+    },
+    {
+        "name": "Leeds Ill"
+    },
+    {
+        "name": "Leeds JS",
+        "description": "A Javascript user group that meets at least once a month in Leeds",
+        "organiser": "Chris Manson, Luke Bonaccorsi",
+        "email": "chris@manson.ie",
+        "where": "The Adelphi",
+        "when": "Last Wednesday of each month",
+        "twitter": "@LeedsJS",
+        "website": "http://leedsjs.com",
+        "advertised": "Meetup"
+    },
+    {
+        "name": "Leeds Ruby Thing"
+    },
+    {
+        "name": "Leeds Sharp"
+    },
+    {
+        "name": "Leeds Tech Meet Up"
+    },
+    {
+        "name": "Leeds Web Development"
+    },
+    {
+        "name": "LeedsPHP",
+        "organiser": "Sam Holman, Ryan Marshall, Tom de Bruin",
+        "email": "samholman@gmail.com",
+        "where": "The Adelphi",
+        "when": "Varies, but roughly third Monday of each month",
+        "twitter": "@LeedsPHP",
+        "website": "http://www.leedsphp.org",
+        "advertised": "Website, Twitter, Meetup, Eventbrite"
+    },
+    {
+        "name": "Node Up North",
+        "description": "Merged with LeedsJS "
+    },
+    {
         "name": "NUX Leeds",
         "description": "UX Designers in Leeds",
         "organiser": "Kimberley Bottomley, Lucy Buykx, Ian Franklin, Rob Whiting, Pete McClory (and Barry Briggs)",
@@ -9,5 +133,44 @@
         "twitter": "@nuxuk",
         "website": "http://nuxuk.org/",
         "advertised": "Twitter @nuxuk, Word of mouth, Mailchimp mailing list, Facebook"
+    },
+    {
+        "name": "SharePoint User Group"
+    },
+    {
+        "name": "ShefPHP",
+        "description": "Sheffield PHP User Group",
+        "organiser": "Stuart Grimshaw, Nat McHugh",
+        "where": "Electric Works, Sheffield",
+        "when": "2nd Thursday of each month.",
+        "twitter": "@shefphp",
+        "website": "http://www.shefphp.co.uk/",
+        "advertised": "Twitter, Word of Mouth, IRC (#shefphp on Freenode)"
+    },
+    {
+        "name": "ShRUG (Sheffield Ruby User Group)",
+        "description": "We're a group of people who are interested in Ruby, Rails and other tech/web/programming stuff.",
+        "organiser": "Eve Barabas, James Gregory, James Almond",
+        "where": "Enterprise Zone, Portobello, Sheffield",
+        "when": "2nd Monday of each month",
+        "twitter": "@sheffieldruby",
+        "website": "http://shrug.org"
+    },
+    {
+        "name": "TriFork Leeds"
+    },
+    {
+        "name": "WordPress Leeds / Northen Bloggers",
+        "description": "WordPress focused meetups that cover anything from development through to online publishing",
+        "organiser": "Samantha Miller, Steph Walker, Dave Pullig, Matt Haines-Young, Tim Nash",
+        "email": "hello@wpleeds.co.uk",
+        "where": "Leeds (The Test People, Albion Court)",
+        "when": "4th Tuesday of the month",
+        "twitter": "@wpleeds",
+        "website": "http://wpleeds.co.uk/",
+        "advertised": "Twitter, MailChimp, Word of Mouth"
+    },
+    {
+        "name": "WYPy"
     }
 ]

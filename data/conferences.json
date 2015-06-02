@@ -1,3 +1,35 @@
 [
-    
+    {
+        "name": "DotYork",
+        "description": "For people who make for the web",
+        "organiser": "Rick Chadwick",
+        "email": "rick@dotyork.com",
+        "where": "York",
+        "when": "Early June 2016 (date tbc)",
+        "twitter": "@dot_york",
+        "website": "dotyork.com",
+        "advertised": "twitter, word of mouth, mailchimp mailing list"
+    },
+    {
+        "name": "DrupalCampNorth #2",
+        "description": "Led by the Yorkshire, North East and North West Drupal User Groups, we will offer both new and seasoned Drupalistas alike to learn and share with one of the greatest open source communities.",
+        "organiser": "Peter McClory",
+        "email": "petermcclory@gmail.com",
+        "where": "Leeds, possibly Carriageworks",
+        "when": "Early/Mid 2016 (date tbc)",
+        "twitter": "@DrupalCampNorth",
+        "website": "http://drupalcampnorth.org/",
+        "advertised": "twitter, word of mouth, mailchimp mailing list"
+    },
+    {
+        "name": "NUX Camp",
+        "description": "Do. Learn. Enjoy. A full day of awesome UX workshops.",
+        "organiser": "www.nuxuk.org",
+        "email": "group@nuxuk.org",
+        "where": "Northern Ballet, Leeds",
+        "when": "Monday 22nd June 2015",
+        "twitter": "@NUXUK",
+        "website": "http://2015.nuxcamp.uk/",
+        "advertised": "Get Invited, Twitter, "
+    }
 ]
