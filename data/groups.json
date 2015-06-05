@@ -1,6 +1,13 @@
 [
     {
-        "name": "Agile Yorkshire"
+        "name": "Agile Yorkshire",
+        "description": "Agile software development and anything related",
+        "organiser": "Neil McLoughlin, Royd Brashay",
+        "email": "info@agileyorkshire.org",
+        "where": "Round Foundry Media Centre, Holbeck Urban Village, Leeds",
+        "when": "2nd Tuesday of the month",
+        "twitter": "@agileyorkshire",
+        "website": "http://www.agileyorkshire.org/"
     },
     {
         "name": "AWS Meetup Leeds",
@@ -12,7 +19,19 @@
         "advertised": "Meetup, Twitter"
     },
     {
-        "name": "DigitaLeeds "
+        "name": "Code & Coffee",
+        "description": "Meet up to code every Wednesday before work with groups in Leeds and York.",
+        "organiser": "Grant Crofton / Neil McLaughlin",
+        "email": "n/a",
+        "where": "La Bottega Milanese (Leeds), The Perky Peacock (York)",
+        "when": "Every Wednesday",
+        "twitter": "@agileyorkshire",
+        "website": "http://www.agileyorkshire.org/codeandcoffee"
+    },
+    {
+        "name": "DigitaLeeds ",
+        "description": "now on hold till november 2015",
+        "organiser": "Matt Pallat"
     },
     {
         "name": "DotYork",
@@ -68,20 +87,46 @@
         "where": "The Belgrave, Leeds",
         "when": "Every 8 weeks or so",
         "twitter": "@hey_stac",
-        "website": "hey.wearestac.com",
+        "website": "http://hey.wearestac.com",
         "advertised": "Twitter, Facebook, email campaigns, word of mouth, Leeds Indie Food"
+    },
+    {
+        "name": "Hull AWS User Group",
+        "description": "User group for all things AWS, and all levels of experience",
+        "organiser": "Steve Bowman",
+        "email": "steve@stevebowman.net",
+        "where": "C4DI, Hull",
+        "when": "Last thursday of the month and lunchtime",
+        "website": "http://www.meetup.com/Hull-Amazon-Web-Services-User-Group/",
+        "advertised": "Twitter, Meetup, Email"
     },
     {
         "name": "Lean Start Up"
     },
     {
-        "name": "Leeds Code DoJo"
+        "name": "Leeds Code Dojo",
+        "description": "Leeds Code Dojo is a group dedicated to programming. We focus on practical coding sessions, where you can learn by doing.",
+        "organiser": "Grant Crofton",
+        "email": "grantac@hotmail.com",
+        "where": "Callcredit, One Park Lane, Leeds",
+        "when": "1st Wednesday of the month",
+        "twitter": "@LeedsCodeDojo",
+        "website": "http://leedscodedojo.github.io/",
+        "advertised": "Meetup (http://www.meetup.com/Leeds-Code-Dojo), twitter, word of mouth"
     },
     {
         "name": "Leeds Data Thing"
     },
     {
-        "name": "Leeds DevOps"
+        "name": "Leeds DevOps",
+        "description": "A hub for everyone who lives, breathes and occasionally sleeps DevOps in Leeds and the surrounding area",
+        "organiser": "Andy Burgin",
+        "email": "inf@leedsdevops.org.uk",
+        "where": "ODI Leds Node, Munro House, Duke Street, Leeds, LS9 8AG,",
+        "when": "Usually a Tuesday towards the end of the month",
+        "twitter": "@LeedsDevops",
+        "website": "http://leedsdevops.org.uk/",
+        "advertised": "Twitter, Eventbrite, Meetup"
     },
     {
         "name": "Leeds Ill"
@@ -160,6 +205,16 @@
         "name": "TriFork Leeds"
     },
     {
+        "name": "UX Sheffield",
+        "description": "A bi-monthly event in Sheffield where we invite speakers from around the country to come and talk about their experiences in UX research and design projects.",
+        "organiser": "Jonny Wing and Jamie Wales",
+        "email": "info@uxsheffield.co.uk",
+        "where": "The Sheffield Tap, Platform 1B, Sheffield Station, Sheaf St, Sheffield, South Yorkshire, S1 2BP",
+        "twitter": "@uxsheffield",
+        "website": "http://www.uxsheffield.co.uk/",
+        "advertised": "Twitter, Facebook, MailChimp email list, Word of Mouth, Eventbrite"
+    },
+    {
         "name": "WordPress Leeds / Northen Bloggers",
         "description": "WordPress focused meetups that cover anything from development through to online publishing",
         "organiser": "Samantha Miller, Steph Walker, Dave Pullig, Matt Haines-Young, Tim Nash",
@@ -172,5 +227,9 @@
     },
     {
         "name": "WYPy"
+    },
+    {
+        "name": "YoDB",
+        "organiser": "Neil Jennings"
     }
 ]
