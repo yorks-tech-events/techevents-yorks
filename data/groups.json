@@ -181,6 +181,13 @@
     },
     {
         "name": "SharePoint User Group"
+        "description": "SharePoint User Group",
+        "organiser": "Simon Doy, Simon Hudson",
+        "where": "Aldelphi, Leeds",
+        "when": "1st Tuesday of every other month",
+        "twitter": "@suguk",
+        "website": "http://www.suguk.org/",
+        "advertised": "Twitter, Word of Mouth, Yammer, Website"
     },
     {
         "name": "ShefPHP",
