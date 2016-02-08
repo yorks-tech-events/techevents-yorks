@@ -19,6 +19,14 @@
         "advertised": "Meetup, Twitter"
     },
     {
+        "name": "Bradlug",
+        "description": "Bradford Linux User Group, a self-help group for GNU/Linux, Open Source and Free Software users in and around the Bradford District",
+        "twitter": "@bradlug",
+        "when": "2nd Monday of the month",
+        "website": "http://www.bradlug.co.uk",
+        "email": "admin@bradlug.co.uk",
+        "where": "Bradford CVS"
+    {
         "name": "Code & Coffee",
         "description": "Meet up to code every Wednesday before work with groups in Leeds and York.",
         "organiser": "Grant Crofton / Neil McLaughlin",
