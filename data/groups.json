@@ -180,7 +180,7 @@
         "advertised": "Twitter @nuxuk, Word of mouth, Mailchimp mailing list, Facebook"
     },
     {
-        "name": "SharePoint User Group"
+        "name": "SharePoint User Group",
         "description": "SharePoint User Group",
         "organiser": "Simon Doy, Simon Hudson",
         "where": "Aldelphi, Leeds",
@@ -203,7 +203,7 @@
         "name": "ShRUG (Sheffield Ruby User Group)",
         "description": "We're a group of people who are interested in Ruby, Rails and other tech/web/programming stuff.",
         "organiser": "Eve Barabas, James Gregory, James Almond",
-        "where": "Enterprise Zone, Portobello, Sheffield",
+        "where": "Union St, 18-20 Union Street, S1 2JP",
         "when": "2nd Monday of each month",
         "twitter": "@sheffieldruby",
         "website": "http://shrug.org"
