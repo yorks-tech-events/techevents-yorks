@@ -81,14 +81,14 @@
     },
     {
         "name": "Hey!",
-        "description": "Hey! is a mini-conference talking about business, design and technology.",
+        "description": "Hey! is a mini-conference talking about business, design and technology with industry profressionals in an informal environment.",
         "organiser": "Josh Nesbitt",
-        "email": "josh@wearestac.com",
-        "where": "The Belgrave, Leeds",
+        "email": "josh@heyst.ac",
+        "where": "Belgrave Music Hall & Canteen, Leeds",
         "when": "Every 8 weeks or so",
         "twitter": "@hey_stac",
-        "website": "http://hey.wearestac.com",
-        "advertised": "Twitter, Facebook, email campaigns, word of mouth, Leeds Indie Food"
+        "website": "https://heyst.ac",
+        "advertised": "Twitter, Facebook, email campaigns, word of mouth, Leeds Indie Food, Leeds Digital Festival"
     },
     {
         "name": "Hull AWS User Group",
